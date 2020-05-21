@@ -1,0 +1,35 @@
+// @import url('reset.min.css');
+* {
+	// font-family: 'Times New Roman';
+}
+span {
+	font-size: 1.1rem;
+}
+// h1, h2, h3, h4, h5 {
+// 	margin: 0;
+// 	padding: 0;
+// }
+html {
+	background-color: gray;
+}
+body {
+	background-color: white; 
+	box-shadow: 0px 0px 7px 10px white;
+	// margin: 4rem;
+	// .left-column {
+	// 	float: left;
+	// }
+	// .right-column {
+	// 	float: right;
+	// }
+}
+// h4, h5 {
+// 	margin-bottom: 1rem;
+// }
+header {
+	.avatar {
+		// float: right;
+		margin: 0 2rem 0 0;
+		border-radius: 20%;
+	}
+}
